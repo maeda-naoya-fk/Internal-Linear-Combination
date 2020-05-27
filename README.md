@@ -19,9 +19,3 @@ If you want to change parameter, Please note that maximum of l is 750 because lm
 
 - numpy(=1.18.1)
 - healpy(=1.12.10)
-
-## Author
-
-- Name: Naoya Maeda
-- Belong: Yokohama National University
-- E-mail: maeda-naoya-fk@ynu.jp
