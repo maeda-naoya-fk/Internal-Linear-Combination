@@ -3,7 +3,7 @@
 Nonparametric component separation for Cosmic Microwave Background observations in harmonic space
 
 
-# Description
+## Description
 
 ILC(Internal Linear Combination) is the foreground removal method.
 You can subtract foreground and noise from observation imaps using this method, and get clean CMB map.
