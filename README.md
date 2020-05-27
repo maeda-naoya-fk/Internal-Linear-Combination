@@ -16,6 +16,6 @@ If you want to change parameter, Please note that maximum of l is 750 because lm
 
 # Author
 
-Name: Naoya Maeda
-Belong: Yokohama National University
-E-mail: maeda-naoya-fk@ynu.jp
+#Name: Naoya Maeda
+##Belong: Yokohama National University
+###E-mail: maeda-naoya-fk@ynu.jp
