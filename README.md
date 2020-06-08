@@ -20,6 +20,7 @@ If you want to change parameter, Please note that maximum of l is 750 because lm
 - numpy(=1.18.1)
 - healpy(=1.12.10)
 - matplotlib(=3.2.1)
+'7'
 
 ## Contributors
 
