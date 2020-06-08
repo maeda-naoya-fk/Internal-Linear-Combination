@@ -8,7 +8,7 @@
 ILC(Internal Linear Combination) is the foreground removal method.  
 You can subtract foreground and noise from observation imaps using this method, and get clean CMB map.  
 You should note that this method is perforemed in **harmonic space**.  
-For detail, see paper 'A high resolution foreground cleaned CMB map from WMAP'(T. Max, O. C. Ang ́elica et al., astro-ph/0302496)
+For detail, see paper 'A high resolution foreground cleaned CMB map from WMAP'(T. Max, O. Angelica et al., astro-ph/0302496)
 
 ## Usage
 
