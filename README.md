@@ -21,3 +21,8 @@ If you want to change parameter, Please note that maximum of l is 750 because lm
 - healpy(=1.12.10)
 - matplotlib(=3.2.1)
 
+## Contributors
+
+- Eiichiro Komatsu (MPA, KavliIPMU)
+
+
