@@ -21,8 +21,7 @@ If you want to change parameter in section WMAP of config.ini, Please note that 
 
 ### Example
 
-
-
+Example_WMAP.ipynb and Example_Plank.ipynb are example result from WMAP and Plank
 
 ## Requirement
 
