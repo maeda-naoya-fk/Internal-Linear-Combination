@@ -13,14 +13,18 @@ For detail, see paper 'A high resolution foreground cleaned CMB map from WMAP'(T
 ## Usage
 
 You can just run this code, and get result.
-If you want to change parameter, Please note that maximum of l is 750 because lmax of beam_transfer_function wmap team produced is 750.
+`python3 main.py`
+If you can get result from WMAP data, you have to change **WMAP=True** in **config.ini**.(from Plank data, **Plank = True**) 
+If you want to change parameter in section WMAP of config.ini, Please note that maximum of l is 750 because lmax of beam_transfer_function wmap team produced is 750.
+
+
 
 ## Requirement
 
 - numpy(=1.18.1)
 - healpy(=1.12.10)
 - matplotlib(=3.2.1)
-`7`
+
 
 ## Contributors
 
